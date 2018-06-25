@@ -9,7 +9,7 @@ Image with circled NAEs saved as image-name_circled.jpg.
 * `virtualenv`
 
 # Test data
-Available at https://drive.google.com/a/monash.edu/file/d/1pFOaKpusztMLPTTHRhZyn7bXgM6gbYzJ/view?usp=sharing
+Available at https://goo.gl/nnCxVX
 
 # Usage
 
